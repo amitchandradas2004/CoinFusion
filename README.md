@@ -28,9 +28,8 @@ This project focuses on building a professional landing page layout using modern
 - HTML5
 - CSS3
 - Tailwind CSS
-- JavaScript
+- Daisy UI
 - Font Awesome Icons
-
 ---
 
 ## 🎯 Purpose of the Project
@@ -57,7 +56,6 @@ The goal of this project is to practice:
 ## 📌 Future Improvements
 
 - Add animations
-- Add dark/light mode toggle
 - Connect with real crypto APIs
 - Improve accessibility
 
